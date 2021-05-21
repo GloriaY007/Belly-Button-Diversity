@@ -13,8 +13,8 @@ This project focuses on building an interactive dashboard to visualize the bacte
 
 ## Resources
 
-Data Source: Belly button samples data
-Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 3.3.7, D3, Plotly 4.11
+Data Source: Belly button samples data ([samples.json](https://github.com/GloriaY007/Belly-Button-Diversity/blob/main/samples.json))
+Software: HTML/CSS, JavaScript, Visual Studio Code, BootStrap, D3, Plotly
 
 **Link to Belly Button Biodiversity webpage**
-The deployed webpage is accessible at https://GloriaY007.github.io/Belly_Button.
+All findings and chart can be viewed of the [Belly Button Biodiversity webpage](https://gloriay007.github.io/Belly-Button-Challenge/).
